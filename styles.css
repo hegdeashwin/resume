@@ -6,7 +6,7 @@ body {
 }
 
 .section-wrapper {
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   padding-top: 30px;
 }
 
@@ -92,4 +92,119 @@ body {
 .education .item .university .year {
   color: #b0b7bf;
   font-weight: 500;
+}
+
+/**
+ * Languages Section
+ */
+.languages .item {
+  margin-bottom: 15px;
+}
+.languages .item .title {
+  color: #778492;
+}
+.languages .item .level {
+  color: #999999;
+}
+.languages .item:last-child {
+  margin-bottom: 0;
+}
+.languages .item .fa {
+  color: #79d19a;
+}
+
+/**
+ * Projects Section
+ */
+.projects .item {
+  margin-bottom: 30px;
+}
+.projects .item .title {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+.projects .item .title a {
+  color: #778492;
+}
+.projects .item .title a:hover {
+  color: #5f6b77;
+}
+
+/**
+ * Experience Section
+ */
+.experience .item {
+  margin-bottom: 30px;
+}
+.experience .item .title {
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 5px;
+  line-height: 1.5;
+}
+.experience .item .title .place {
+  color: #999999;
+  font-weight: normal;
+}
+.experience .item .title .place a {
+  color: #999999;
+}
+.experience .item .title .place a:hover {
+  color: #666666;
+}
+.experience .item .title .year {
+  color: #999999;
+  font-weight: normal;
+}
+
+/**
+ * Skills Section
+ */
+.skills .intro {
+  margin-bottom: 30px;
+}
+.skills .skillset .item {
+  margin-bottom: 30px;
+}
+.skills .skillset .level-title {
+  font-size: 16px;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 10;
+}
+.skills .skillset .level-title .level-label {
+  color: #ccd1d6;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Lato", arial, sans-serif;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.skills .skillset .level-bar {
+  height: 15px;
+  background: #e8e8e8;
+}
+.skills .skillset .level-bar-inner {
+  height: 15px;
+  background: #66cb8c;
+}
+
+/**
+ * Footer Section
+ */
+.footer {
+  background: #778492;
+  color: #000;
+  padding: 10px 0;
+}
+.footer .copyright {
+  line-height: 1.6;
+  color: #000;
+  font-size: 14px;
+}
+.footer a {
+  color: #000;
 }

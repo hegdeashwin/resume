@@ -25,6 +25,34 @@ body {
 }
 
 /**
+ * Color/Logo Patterns
+ */
+.gplus {
+  color: #DD4B39;
+}
+.linkedin {
+  color: #0077B5;
+}
+.stackoverflow {
+  color: #F47920;
+}
+.twitter {
+  color: #2CAAE1;
+}
+.facebook {
+  color: #3B579D;
+}
+.github {
+  color: #000;
+}
+.adobe {
+  color: #E41B21;
+}
+.msword {
+  color: #2B589B;
+}
+
+/**
  * Header
  */
 .header {

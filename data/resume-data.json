@@ -1,0 +1,139 @@
+{
+	"firstname": "Ashwin",
+	"lastname": "Hegde",
+	"designation": "Sr. Software Engineer",
+	"profilepic": {
+		"type": "gvatars",
+		"url": "https://avatars3.githubusercontent.com/u/4667864?v=3&s=150"
+
+	},
+	"social": [{
+		"name": "github",
+		"plink": "https://github.com/hegdeashwin",
+		"styles": {
+			"i": {
+				"class": [
+					"fa-github-square",
+					"github"
+				]
+			}
+		}
+	}, {
+		"name": "linkedin",
+		"plink": "https://in.linkedin.com/in/hegdeashwin",
+		"styles": {
+			"i": {
+				"class": [
+					"fa-linkedin-square",
+					"linkedin"
+				]
+			}
+		}
+	}, {
+		"name": "stackoverflow",
+		"plink": "http://stackoverflow.com/users/1923575/hegdeashwin",
+		"styles": {
+			"i": {
+				"class": [
+					"fa-stack-overflow",
+					"stackoverflow"
+				]
+			}
+		}
+	}, {
+		"name": "googleplus",
+		"plink": "https://plus.google.com/+AshwinHegdeM/",
+		"styles": {
+			"i": {
+				"class": [
+					"fa-google-plus-square",
+					"gplus"
+				]
+			}
+		}
+	}, {
+		"name": "twitter",
+		"plink": "https://twitter.com/hegdeashwin3",
+		"styles": {
+			"i": {
+				"class": [
+					"fa-twitter-square",
+					"twitter"
+				]
+			}
+		}
+	}, {
+		"name": "facebook",
+		"plink": "https://www.facebook.com/hegdeashwin",
+		"styles": {
+			"i": {
+				"class": [
+					"fa-facebook-square",
+					"facebook"
+				]
+			}
+		}
+	}],
+	"downloads": [{
+		"format": "pdf",
+		"url": "",
+		"visible": true,
+		"styles": {
+			"i": {
+				"class": [
+					"fa-file-pdf-o",
+					"adobe"
+				]
+			}
+		}
+	}, {
+		"format": "docs",
+		"url": "",
+		"visible": false,
+		"styles": {
+			"i": {
+				"class": [
+					"fa-file-word-o",
+					"msword"
+				]
+			}
+		}
+	}, {
+		"format": "text",
+		"url": "",
+		"visible": false,
+		"styles": {
+			"i": {
+				"class": [
+					"fa-file-text-o",
+					""
+				]
+			}
+		}
+	}],
+	"aboutme": {
+		"summary": "A software craftsman with a positive practicing approach towards software craftsmanship."
+	},
+	"contactme": {
+		"address": "Pune, India",
+		"email": "ashwin.hegde3@gmail.com",
+		"wiki": "en.wikipedia.org/wiki/User:Hegdeashwin",
+		"blog": "hegdeashwin.blogspot.in"
+	},
+	"languages": [{
+		"name": "English",
+		"proficiency": "Professional"
+	}, {
+		"name": "Hindi",
+		"proficiency": "Professional"
+	}, {
+		"name": "Kanada",
+		"proficiency": "Native"
+	}, {
+		"name": "Gujarati",
+		"proficiency": "Native"
+	}, {
+		"name": "Marathi",
+		"proficiency": "Limited"
+	}]
+}
